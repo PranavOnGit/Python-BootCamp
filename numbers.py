@@ -29,3 +29,8 @@ print (pow(4, 2)) # to get 4^2
 print (floor(3.7)) #will get small number or round to lower num ; 3
 print (ceil(3.7)) #will get higher number or round to higher num ; 4
 print (sqrt(36)) #get squear root of the number ; 6.0
+# Return the base-10 logarithm of different numbers
+print(log10(2.7183))
+print(log10(2))
+print(log10(1))
+print (pi)# Print the value of pi
